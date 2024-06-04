@@ -1,10 +1,8 @@
-# Regression
-An automated grid search is being conducted on the following sklearn models:<br><br>
-1. LinearRegression<br>
-2. GradientBoostingRegressor<br>
-3. SGDRegressor<br>
-4. ElasticNet<br>
-<br>
-Libraries employed: numpy, pandas, matplotlib, seaborn, scipy, sklearn.<br>
-<br>
-Data source: https://www.kaggle.com/datasets/juliazubko/25-unlabeled-features-target
+## Contents
+1. **Data overview** <br> _Outlook on raw data._
+2. **Data wrangling** <br> _Data Cleaning<br>Train/test split<br>Statistical interference<br>Correlations<br>Data preparation and dimentionality reduction._
+3. **Machine learning with sklearn** <br> _ML setup<br>Training<br>Performance (training dataset)<br>Test sample performance<br>Best ML model._
+4. **Deep-learning with tf.keras** <br> _Training<br>Training<br>Test sample performance<br>Best ML model_
+5. **Models comparison** <br> _Determination coeff and MeanAbsoluteError are adopted._
+
+**Dataset:** https://www.kaggle.com/datasets/juliazubko/25-unlabeled-features-target<br><br>
